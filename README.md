@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sumukhg2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EQ0eXp3PJlmM0a32vu9cDVz0lMkH44Ai/view?usp=sharing](https://drive.google.com/file/d/1EQ0eXp3PJlmM0a32vu9cDVz0lMkH44Ai/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1EQ0eXp3PJlmM0a32vu9cDVz0lMkH44Ai/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **Learning never stops and is never wasted**
 
