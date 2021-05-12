@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumukh Gawli</h1>
 <h3 align="center">Suceeding Web Developer!</h3>
 
-- 🌱 I’m currently learning **React.js,node.js**
+- 🌱 I’m currently learning **Computer Science**
 
 - 📫 How to reach me **sumukhg2001@gmail.com**
 
