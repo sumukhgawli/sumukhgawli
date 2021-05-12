@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sumukh Gawli</h1>
 <h3 align="center">Suceeding Web Developer!</h3>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning : **Computer Science**
 
-- 📫 How to reach me **sumukhg2001@gmail.com**
+- 📫 How to reach me : **sumukhg2001@gmail.com**
 
 - 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1EQ0eXp3PJlmM0a32vu9cDVz0lMkH44Ai/view?usp=sharing">RESUME</a>
 
