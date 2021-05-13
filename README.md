@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sumukh Gawli</h1>
 <h3 align="center">Suceeding Web Developer!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumukhgawli&label=Profile%20views&color=0e75b6&style=flat" alt="sumukhgawli" /> </p>
+
 - 🌱 I’m currently learning : **Computer Science**
 
 - 📫 How to reach me : **sumukhg2001@gmail.com**
