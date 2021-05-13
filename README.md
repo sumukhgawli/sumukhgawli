@@ -7,7 +7,7 @@
 
 - 📫 How to reach me : **sumukhg2001@gmail.com**
 
-- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1EQ0eXp3PJlmM0a32vu9cDVz0lMkH44Ai/view?usp=sharing">RESUME</a>
+- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1mxFEm-5-X0IgU-N9gvf9O-vsTD0CT27n/view?usp=sharing">RESUME</a>
 
 - ⚡ Fun fact **Learning never stops and is never wasted**
 
