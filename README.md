@@ -11,8 +11,8 @@
 - ⚡ Fun fact **Learning never stops and is never wasted**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" fill="green">
-<a href="https://www.linkedin.com/in/sumukh-gawli-25b5191b9/" target="blank"><img fill="green" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SUMUKH GAWLI" height="30" width="40" /></a>
+<p align="left" >
+<a href="https://www.linkedin.com/in/sumukh-gawli-25b5191b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SUMUKH GAWLI" height="30" width="40" /></a>
 <a href="https://www.instagram.com/self.sumukh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="self.sumukh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC6URR_3Ve_SYjrtJTtQhC7Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="1083 Sumukh Gawli" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sumukhg2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/9e7f8c97914fef2678a569d356b659016987b29e/icons/hackerrank.svg" alt="@sumukhg2001" height="30" width="40" /></a>
